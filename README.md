@@ -36,11 +36,3 @@ You can also learn about why you should donote blood, and why it is beneficial f
 
 
 Thank you<br/>
-
-<br/>
-Developers<br/>
-Shuvendy Roy Bikash<br/>
-cse, kuet<br/>
-<br/>
-Hasib Iqbal Pranto<br/>
-cse, kuet<br/>
